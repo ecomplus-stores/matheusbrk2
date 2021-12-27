@@ -1,10 +1,9 @@
 {
-  "store_id": 1052,
-  "repository": "",
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
+  "store_id": 24117,
+  "name": "matheusbrk2",
+  "domain": "matheusbrk2.netlify.app",
+  "short_name": "matheusbrk2",
+  "description": "matheusbrk2",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
@@ -20,5 +19,6 @@
   "lang": "pt_br",
   "currency": "BRL",
   "currency_symbol": "R$",
-  "country_code": "BR"
+  "country_code": "BR",
+  "repository": "ecomplus-stores/matheusbrk2"
 }
