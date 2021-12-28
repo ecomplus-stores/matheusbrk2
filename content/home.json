@@ -7,17 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2021-12-28T19:43:23.082Z",
+          "end": "2021-12-28T19:43:23.098Z",
+          "img": "/img/uploads/design-sem-nome-2-.png"
         }
       ]
     },
