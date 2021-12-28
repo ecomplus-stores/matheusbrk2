@@ -7,9 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-12-28T19:43:23.082Z",
-          "end": "2021-12-28T19:43:23.098Z",
-          "img": "/img/uploads/design-sem-nome-2-.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whey-dux-baaner.png",
+          "link": "https://matheusbrk2.netlify.app/whey-concentrado",
+          "alt": "Whey mais gostoso do Brasil! ",
+          "mobile_img": "/img/uploads/whey-dux-baaner.png"
         }
       ]
     },
