@@ -7,7 +7,7 @@
     "pages": [
       {
         "title": "Blog",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://matheusbrk2.netlify.app/blog"
       }
     ],
     "phone_wpp": true,
