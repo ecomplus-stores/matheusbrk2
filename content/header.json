@@ -1,12 +1,12 @@
 {
   "marketing_stripe": {
     "text": "Os melhores suplementos você encontra aqui!",
-    "link": "/promotion"
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Esta loja é um PWA",
+        "title": "Blog",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
