@@ -9,6 +9,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/mes-de-inauguracao-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/baner-octavio-dux-2-.png",
           "link": "https://matheusbrk2.netlify.app/whey-concentrado",
           "alt": "Whey mais gostoso do Brasil! ",
@@ -28,7 +33,8 @@
           "link": "https://matheusbrk2.netlify.app/creatina-hardcore-300g---integral-medica",
           "mobile_img": "/img/uploads/design-sem-nome-5-.png"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
