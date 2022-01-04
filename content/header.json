@@ -15,11 +15,11 @@
   },
   "categories_list": {
     "featured": [
+      "/integralmedica?Integralmedica",
       "/dux?DUX",
-      "/max?MAX",
-      "/integralmedica?Integralmedica"
+      "/max?MAX"
     ],
-    "random": 3,
+    "random": 0,
     "full_width": false
   },
   "search_input": true
