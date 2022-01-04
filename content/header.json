@@ -20,7 +20,7 @@
       "/integralmedica?Integralmedica"
     ],
     "random": 3,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
