@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gaTrackingId": "UA-216520557-1"
+    "gaTrackingId": " GTM-M2FD9PD"
   },
   "headAppend": "src/append/head"
 }
