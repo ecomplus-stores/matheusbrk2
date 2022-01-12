@@ -17,10 +17,6 @@
     {
       "type": "custom-content",
       "markdown": "![](/img/uploads/botaomsnutritionsuplementos.png)"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ],
   "body": ""
