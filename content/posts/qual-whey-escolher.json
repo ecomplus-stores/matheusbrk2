@@ -5,18 +5,22 @@
   "meta_title": "Diferenças entre Whey ",
   "meta_description": "Qual whey é comprar?",
   "thumbnail": "/img/uploads/post-blog-1.png",
-  "body": "![](/img/uploads/post-blog-3.png)",
+  "body": "",
   "sections": [
+    {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/post-blog-3.png)"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "Agora que você já sabe qual whey escolher não perca tempo e confira nossos produtos!!"
+    },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "61ca27590c7c727225e4308a:categories:WHEY:/whey"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "Agora que você já sabe qual whey escolher não perca tempo e confira nossos produtos!!"
     }
   ]
 }
