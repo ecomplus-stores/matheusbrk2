@@ -49,6 +49,20 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61ca496e0c7c727225e473d8:categories:CREATINA:/creatina"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61ca49ca0c7c727225e474b0:categories:PRÉ TREINO:/pre-treino"
+    },
+    {
       "type": "page-title",
       "title": "MSNutritionSuplementos",
       "description": "Sua parceira em suplementação "
