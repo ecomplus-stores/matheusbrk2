@@ -63,6 +63,13 @@
       "collection_id": "61ca49ca0c7c727225e474b0:categories:PRÉ TREINO:/pre-treino"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61fec5a47963422eeeec6543:categories:PASTA DE AMENDOIM:/pasta-de-amendoim"
+    },
+    {
       "type": "page-title",
       "title": "MSNutritionSuplementos",
       "description": "Sua parceira em suplementação "
